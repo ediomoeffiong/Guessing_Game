@@ -3,8 +3,8 @@ import java.util.Scanner;
 import java.io.*;
 
 public class Main {
-    public static int max = 2;
-    public static int min = 0;
+    public static int max = 5;
+    public static int min = 1;
     public static int score = 0;
     public static int tries = 0;
 
